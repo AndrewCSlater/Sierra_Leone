@@ -102,5 +102,5 @@ write.csv(df2, "satellite_data/golaTrapPoints_15m_Sent12_q1_2022_popDens_hansYr_
 # write.csv(df2, "satellite_data/golaTrapPoints_15m_Sent12_q1_2021_popDens_hansYr_GLCM.csv")
 
 
-# Test Line
+# Test
 
